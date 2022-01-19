@@ -1,0 +1,5 @@
+hr                         {height: 1px;}
+img#passage   {cursor: pointer;}
+.buttons                    {position: absolute; z-index: 90; right: 23px; bottom: 9px;}
+.actionbar               {position: absolute; z-index: 101; right: 0px; top: 0px; height: 1px; overflow: visible;}
+.buttons_on_image  {cursor: pointer; font-weight: bold; color: #D8D8D8; font-size: 10px;}

@@ -1,0 +1,8 @@
+body                                  {font-size: 10pt; margin: 0px; height: 100%; width: 100%; color: #000000; background-color: #dedede; font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;}
+.main_text ,
+.exit                               {font-weight: bold; font-size: 10px; cursor: pointer; color: #f0f0f0; text-decoration: none;}
+.bottom_text               {visibility: hidden; position: absolute;}
+.menutop,
+a.menutop:visited,
+a.menutop:active     {font-weight: bold; font-size: 10px; color: #3b3936; text-decoration: none;}
+a.menutop:hover       {color: #76726b;}

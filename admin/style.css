@@ -1,0 +1,27 @@
+BODY         {margin: 0; background-color: #ffffff;}
+div               {color: #000000; font-size: 12px; padding-left: 1px; padding-right: 1px; font-family: Arial;}
+div.white {color: #000000; font-weight: bolder; font-size: 13px; padding-left: 1px; padding-right: 1px; font-family: Times New Roman;}
+div.mic      {color: #000000; font-size: 11px; font-family: Arial; text-decoration: none;}
+
+td.head    {margin: 0px; padding: 0px; background-color: #ffffff;}
+
+input.main  {border: 1px solid #666666; background: #ffffff; height: auto; font-size : 10px; width: 200px; color: #000000;}
+input.but    {border: 1px solid #666666; background: #ffffff; height: auto; font-size : 10px; color: #000000; }
+
+a:link      {color: #000000; font-size: 12px; font-family: Arial; text-decoration: none;}
+a:visited    {color: #000000; font-size: 12px; font-family: Arial; text-decoration: none;}
+a:hover      {color: #000000; font-size: 12px; font-family: Arial; text-decoration: underline;}
+a.mic:link    {color: #000000; font-size: 11px; font-family: Arial; text-decoration: none;}
+a.mic:visited  {color: #000000; font-size: 11px; font-family: Arial; text-decoration: none;}
+a.mic:hover    {color: #000000; font-size: 11px; font-family: Arial; text-decoration: none;}
+a.big:link    {color: #003333; font-size: 20px; padding-left: 1px; padding-right: 1px; font-family: Arial; text-decoration: none;}
+a.big:visited  {color: #003333; font-size: 20px; padding-left: 1px; padding-right: 1px; font-family: Arial; text-decoration: none;}
+a.big:hover    {color: #003333; font-size: 20px; padding-left: 1px; padding-right: 1px; font-family: Arial; text-decoration: none;}
+a.undl      {color: #FFFFBB; text-decoration: underline;}
+a.undl:hover  {color: #FFFFFF; text-decoration: underline;}
+
+.header    {font-weight: bold; color: #FF7799;}
+.small    {font-size: 11px;}
+.blok        {width: 100%;}
+.submenu  {position: absolute; visibility: hidden;}
+#mmoves    {border: #666666 1px solid; padding: 2px; visibility: hidden; overflow: visible; white-space: nowrap; position: absolute; left: 0px; top: 0px; background-color: #ffffcc; z-index: 200; text-align: left; font-size: 15px;}
